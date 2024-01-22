@@ -21,4 +21,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo
 
-https://youtu.be/Pk5ZZMorhyw
+https://www.youtube.com/watch?v=ImgWRpbxhYo
+
+## live
+
+https://crud-operation-jsonplaceholder-api-angular-17.vercel.app/
